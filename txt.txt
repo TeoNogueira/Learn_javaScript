@@ -1,0 +1,73 @@
+projeto finanças:
+
+
+
+passo 1: 
+
+0 - CRIAR ARROWFUNCTION
+1 const operator = logica - ou + no ifternário
+
+2 const CSSClass = ifternário se for 0 < classe de cor vermelha se nao classe de cor verde
+
+3 const operador fora  = transaction.amount << vindo do array de objetos envolva-o no Math.abs()
+
+4 criar li
+
+5 li.classList.add(CSSClass)
+
+li.innerHTML = ``
+
+
+transactionsUl.append(li)
+
+////////////////////////////////
+BALANCEAMENTO DE ACORDO COM A LÓGICA DO TERNÁRIO ACIMA:
+
+PASSO 2: 0 CRIAR ARROWFUNCTION
+
+
+
+
+
+
+/////////
+PASSO 3: CRIAR A INIT QUE JUNTARA AS DUAS FUNÇOES ACIMA
+
+
+////////////////////////////////
+PASSO 4: CRIAR FORM:
+
+DENTRO LOGICA DOS INPUTS PUXANDO OS IDS NO QUERYSELECTOR
+CRIAR OBJETO COM ID: PUXANDO UMA FUNÇÃO ID MATH.ROUND(MATH.RANDOM() * 1000),
+COLOCAR DENTRO AS CONST DOS INPUTS
+
+FAZER UM PUSH DESSE OBJETO PARA O ARRAY PRE-CRIADO NO COMEÇO
+INVOCAR A INIT()
+
+INVOCAR AS CONSTS DOS INPUTS.VALUE = '' VAZIOS
+
+//PASSO 5: CRIAR ACIMA DO FORM A FUNÇAO DO ID
+
+// PASSO 6: CRIAR BOTAO DE REMOÇÃO:
+INVOQUE A updateLocalStorage() acima da init()
+INVOQUE A INIT() DENTRO DA FUNÇAO DE REMOVER O BOTAO
+
+
+
+/////
+//PASSO 7 CRIAR LOCALSTORAGE E SUA LOGICA:
+
+1 NO ESCOPO GLOBAL PONHA GETITEM e sua logica que recebe o mesmo ou entao array vazio
+
+2 CRIAR FUNÇÃO LOCALSTORAGE.SETITEM('', JSON.stringify()) << envolva o valor)
+INVOQUE A updateLocalStorage() acima da init() na função do botão de remover
+
+INVOQUE A updateLocalStorage() abaixo da init() no evento do form
+
+
+
+
+
+
+
+

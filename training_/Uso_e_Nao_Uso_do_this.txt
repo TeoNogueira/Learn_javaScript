@@ -1,0 +1,16 @@
+o this dentro de uma arrowfunction se torna propriedade do escopo podendo causar um conflito caso ele esteja dentro de um objeto ex:
+
+
+const obj = {
+
+    Nome: 'Teo',
+
+    test: () => {
+
+        console.log(this.Nome)
+    }
+}
+
+obj.test()
+
+= Erro por causa do escopo que é o objeto está sendo declarado no escopo global.. automaticamente o this lê esse escopo global desse Objeto e não se baseia no escopo da própria arrowFunction

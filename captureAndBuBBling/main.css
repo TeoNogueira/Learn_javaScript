@@ -1,0 +1,71 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.one {
+
+width: 1320;
+height: 1280px;
+background: #baf0baf0;
+
+
+}
+
+
+
+.two {
+
+    width: 720px;
+    height: 720px;
+
+   background: brown;
+   margin-left: 320px;
+
+    
+    }
+
+
+
+    
+
+.three {
+    
+    width: 280px;
+    height: 280px;
+    padding-top: 450px;
+    box-sizing: border-box;
+    margin-left: 210px;
+    background: #fbbabb;
+    
+    
+    }
+
+    .eOne {
+     
+        border: 1px dotted red;
+        border-radius: 5px;
+        background: #babaca;
+
+    }
+
+    
+    .eTwo {
+     
+        border: 1px dashed #976fba;
+        border-radius: 5px;
+        background: #babaca;
+
+    }
+
+
+    
+    .eThree {
+     
+        border: 1px dotted #b9b810;
+        border-radius: 5px;
+        background: #babaca;
+
+    }
