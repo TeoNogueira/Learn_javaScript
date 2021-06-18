@@ -1,10 +1,10 @@
-const kpopBand = {
+const bands = {
 
-One: 'Wanna one',
-Two: 'Seventeen',
-Three: 'Pentagon',
-Four: 'Taeyeon',
-Five: 'Kard',
+// One: ,
+// Two: ,
+// Three: ,
+// Four: ,
+// Five: ',
 
 desestruturar() {
 
@@ -30,11 +30,11 @@ kpopBand.executarDesestruturacao()
 
 const musicWinner = {
 
-One: 'Shine',
-Two: 'Dont wanna cry',
-Three: 'Why',
-Four: 'Ride on the wind',
-Five: 'Ill Promise you (I.P.U)',
+// One: 'S',
+// Two: '',
+// Three: '',
+// Four: ',
+// Five: ,
 
 
 desestruturar() {
